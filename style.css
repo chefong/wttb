@@ -1,0 +1,26 @@
+li {
+	display: inline-block;
+	margin: 0 0.75em;
+	font-family: "Josefin Sans", sans-serif;
+	font-size: 110%;
+}
+
+#title {
+	font-family: "Josefin Sans", sans-serif;
+	text-align: center;
+	margin-top: 4%;
+}
+
+#main-img {
+	width: 100%;
+	margin-top: 10%;
+}
+
+.subtitle {
+	font-family: "Open Sans", sans-serif;
+	text-align: center;
+	margin: 0 20%;
+	margin-top: 40%;
+	letter-spacing: 3px;
+	padding: ;
+}
